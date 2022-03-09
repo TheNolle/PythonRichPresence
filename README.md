@@ -27,5 +27,5 @@ Now that it is done, enter a first line and second line if you want to, and an i
 Run main_.pyw by either double clicking it (running in background) [to stop it run the "stop program"] or run in an IDE.
 
 ### WARNING:
-the image name will be "{prefix}{image}_{i}{suffix}" <br>
-so if prefix is "a_" image is "b" and suffix is "_" it will be "{a_}{b}_{1}{_}"
+the image name will be "`{prefix}{image}_{i}{suffix}`" <br>
+so if prefix is "a_" image is "b" and suffix is "_" it will be "`{a_}{b}_{1}{_}`"
