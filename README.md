@@ -3,6 +3,10 @@ Download the release you are interested in, and get started.
 
 ---
 
+# Client ID
+## Where ?
+When you create your app, you'll be redirected to https://discord.com/developers/applications/<App ID>/information. Once there under "**TAGS**" you'll see "**APPLICATION ID**". This is your Client ID
+
 # Get Started
 
 ## Static
