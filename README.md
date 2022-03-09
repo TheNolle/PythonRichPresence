@@ -15,7 +15,7 @@ Go into the "options.py" and place here the name of the image(s).  <br>
 Now that it is done, enter a first line and second line if you want to.  <br>
 Run main.pyw by either double clicking it (running in background) [to stop it run the "stop program"] or run in an IDE.
 
-## Animated
+## Animated `still laggy, don't recommend using it`
 To use the animated version, you must first scale your gif to a size between 512 and 1024 minimum, then split it (i recommend using https://ezgif.com). <br>
 Once done you must create a new application on https://discord.com/developers/applications. Let's say you create an app called "Animation". <br>
 Once done go directly to the tab "Rich Presence", now go to your folder with all your images split (must be in a zip if used ezgif). <br>
